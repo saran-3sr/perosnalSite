@@ -22,6 +22,12 @@ nav
 
 
 }
+.navbar-second
+{
+  display: flex;
+  justify-content: space-between;
+  width:40%;
+}
 .brand-logo
 {
   font-family:Pacifico,cursive;
@@ -194,7 +200,7 @@ footer
   font-size: 3em;
   background-color:#EEEEEE;
   color:#222831;
-  height: 7vh;
+  height: 10vh;
 }
 .middle
 {
@@ -319,4 +325,20 @@ grid-template-columns: 50% auto;
 .footer-div a
 {
   font-size: 0.5em;
+
+}
+footer
+{
+  height: 20vh;
+  margin: 0;
+}
+.copyright
+{
+  background-color:#white;
+  color:#222831;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  font-size: 0.3em;
+}
 }
