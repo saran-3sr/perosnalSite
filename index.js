@@ -1,4 +1,4 @@
-var welcomesection=["Data Scientist","CEO of SaranJai","Software Developer"];
+var welcomesection=["Data Scientist","CEO of SaranJai.inc","Software Developer"];
 var count=0;
 var elem1=document.getElementById("title2");
 console.log(elem1.innerhtml);
